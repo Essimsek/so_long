@@ -1,0 +1,13 @@
+{
+	"files.associations": {
+		"stdlib.h": "c",
+		"libft.h": "c",
+		"ft_printf.h": "c",
+		"unistd.h": "c",
+		"get_next_line.h": "c",
+		"cstdlib": "c",
+		"locale": "c",
+		"ios": "c"
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
