@@ -92,7 +92,7 @@ int	main(int argc, char **argv)
 		create_map(argv[1], data);
 	is_the_path_valid(data);
 	get_images(data->imgs, data);
-	play_sound();
+	// play_sound(); Not working :/
 	set_imgs(data->imgs, data);
 	mlx_hook(data->win, 2, 0, gameplay, data);
 	mlx_hook(data->win, 17, 0, close_win, data);
