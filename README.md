@@ -1,1 +1,1 @@
-# 42 project
+# Ecole 42 project
